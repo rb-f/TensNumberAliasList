@@ -1,6 +1,6 @@
 A personal page of my number alias list.
 
-View at 
+View at https://rb-f.github.io/TensNumberAliasList/
 
 ## Text and Code License
 
