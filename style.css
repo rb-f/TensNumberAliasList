@@ -57,6 +57,9 @@ a.number {
 }
 
 @media (max-width: 854px) {
+	body {
+		font-size: 1.05em;
+	}
 	main, footer {
 		padding: 24px;
 	}
